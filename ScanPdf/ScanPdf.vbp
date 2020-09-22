@@ -1,0 +1,47 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\system32\stdole2.tlb#Standard OLE Types
+Reference=*\G{AF709562-19F1-46C5-A1D6-BDE4C1954AE0}#1.0#0#..\..\..\..\WINDOWS\system32\FreeImageX.dll#FreeImage ActiveX Library (1.0)
+Reference=*\G{00020905-0000-0000-C000-000000000046}#8.2#0#..\..\..\..\Programmi\Microsoft Office XP\Office10\MSWORD.OLB#Microsoft Word 10.0 Object Library
+Form=frm_SelezioneDocumento.frm
+Form=ZScanPdf.frm
+Module=Mod_Pdf; Mod_Pdf.bas
+IconForm="frm_SelezioneDocumento"
+Startup="frm_SelezioneDocumento"
+HelpFile=""
+Title="ScanPdf"
+ExeName32="ScanPdf.exe"
+Command32=""
+Name="ScanPdf"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=34
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionCompanyName="Stel"
+VersionLegalCopyright="Marte77"
+VersionLegalTrademarks="Windows (C) Microsoft - Visual Basic (C) Microsoft"
+VersionProductName="ScanPdf"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AppForge Global]
+MODID=AC5AF6E6-FD93-4150-BBCE-CD4045FF34AC
